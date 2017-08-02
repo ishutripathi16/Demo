@@ -1,3 +1,5 @@
 THIS IS ANOTHER TEXT FILE
 
 changes are made
+
+these are the changes to the second file

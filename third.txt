@@ -1,3 +1,5 @@
 This is another file
 
 changing in 3rd file
+
+these are the changes to the third file
